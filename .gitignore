@@ -1,0 +1,6 @@
+/test/*/.venv/*/include
+/test/*/.venv/*/lib
+/test/*/.venv/*/pyvenv.cfg
+/test/*/.venv/*/bin/pip*
+/test/*/.venv/*/bin/python*
+.DS_Store
